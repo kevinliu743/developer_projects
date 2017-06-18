@@ -1,7 +1,7 @@
 body {
   overflow: hidden;
-  background-image: url("backgrounds/dd.jpg");
-  background-size:100%;
+  background-image: url("backgrounds/crystal1.jpg");
+  background-size:110%;
   background-repeat: no-repeat;
   z-index: 1;
 }
@@ -484,7 +484,7 @@ body {
 }
 .holder .circle:nth-child(15) {
   opacity: 0.55;
-  background-image: url("backgrounds/dddd.jpg");
+  background-image: url("backgrounds/crystal2.jpg");
   background-size:190%;
   border: 0px solid black;
   border-bottom: none;
@@ -496,7 +496,7 @@ body {
 
 }
 .holder .circle:nth-child(16) {
-  border: 25px solid rgba(0,0,0,.75);
+  border: 25px solid rgba(50,0,150,.55);
   opacity: 1;
   border-radius: 700px 700px 700px 700px;
   width: 700px;
